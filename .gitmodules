@@ -1,0 +1,4 @@
+[submodule "lib/lycan"]
+	path = lib/lycan
+	url = https://github.com/shawwn/lumen
+	branch = lycan
